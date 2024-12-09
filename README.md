@@ -37,10 +37,5 @@ Feel free to contribute to this project! You can:
 - Fork the repository
 - Create a new branch for your feature or bugfix
 - Submit a pull request
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Acknowledgements
 - Thanks to Google for providing the Gemini AI model API.
